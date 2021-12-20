@@ -9,6 +9,7 @@ bashbase (`db`) is a plaintext file database that runs in the bash shell. Each u
 ## Downloads
 
 [![debianv2.1.0](https://img.shields.io/badge/Debian-v2.1.0-blue)](downloads/bashbase_2.1.0.deb)
+
 **MacOS version is a Work In Progress**
 
 ---
