@@ -16,8 +16,8 @@ bashbase (`db`) is a plaintext file database that runs in the bash shell. Each u
 
 ## Setup
 
-- Download the latest version. If using Debian or derivatives (i.e. Ubuntu) then download the `.deb` file. All other UNIX-based OS users: Download the `.zip` file.
-- Debian users: Run `sudo dpkg -i <package-file> ; rm <package-file>`. MacOS users: Extract the zip archive's contents. There will be a file called `db`. Run `chmod 755 /path/to/db` in Terminal, then copy the file to `/usr/bin/` by executing `cp /path/to/db /usr/bin/db`.
+- Download the latest version. If using Debian or derivatives (i.e. Ubuntu) then download the `.deb` file. All other UNIX-based OS users (including MacOS): Download the `.zip` file.
+- Debian users: Run `sudo dpkg -i <package-file> ; rm <package-file>`. All other UNIX-based OS users (including MacOS): Extract the zip archive's contents. There will be a file called `db`. Run `chmod 755 /path/to/db` in Terminal, then copy the file to `/usr/bin/` by executing `cp /path/to/db /usr/bin/db`.
 - All you need to do is run `db` in your shell to set up the script.
 
 ---
